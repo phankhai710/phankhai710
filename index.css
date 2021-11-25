@@ -1,0 +1,32 @@
+body{
+  font-family:"Roboto Condensed"
+}
+
+html{
+  background: rgba(189, 195, 199,0.4);
+  font-size: 20px;
+}
+
+h2{
+  color: #2980b9;
+  
+  text-align: center;
+  text-transform: capitalize;
+  
+  font-size: 2rem; 
+}
+
+#mid{
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+#bottom{
+  text-align: center;
+  
+}
+
+#top{
+  text-align: center;
+}
+
